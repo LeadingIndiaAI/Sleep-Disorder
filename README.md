@@ -1,4 +1,11 @@
 # Sleep_Disorder_Detection
+
+1.Clean your dataset using the scripts
+2.Input your EEG cleaned data into Preprocessing.m 
+3.Define annotations in output.csv
+4.Use the output file in MLalgorithm.py
+
+
 This gives an abstract of how to detect sleep disorder (insomnia here) using ML.
 
 In the first part we took the dataset of normal persons recording and insomnia persons recording from the Physionet website.
